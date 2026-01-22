@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Finance Converter</string>
+
+    <string name="title_convert">კონვერტაცია</string>
+    <string name="title_history">ისტორია</string>
+    <string name="title_rates">კურსები</string>
+    <string name="title_settings">პარამეტრები</string>
+
+    <string name="action_convert">კონვერტაცია</string>
+    <string name="action_delete">წაშლა</string>
+    <string name="action_clear">გასუფთავება</string>
+
+    <string name="amount_hint">რაოდენობა</string>
+    <string name="from_currency_label">საწყისი ვალუტა</string>
+    <string name="to_currency_label">სამიზნე ვალუტა</string>
+    <string name="result_label">შედეგი</string>
+
+    <string name="exchange_rates">ვალუტის კურსები</string>
+
+    <string name="settings_notifications">შეტყობინებები</string>
+    <string name="settings_enable_notifications">შეტყობინებების ჩართვა</string>
+    <string name="settings_version">ვერსია: 1.0.0</string>
+    <string name="settings_save">შენახვა</string>
+    <string name="settings_reset">გადატვირთვა</string>
+    <string name="settings_about">აპლიკაციის შესახებ</string>
+
+    <string name="transactions_count">ტრანზაქციები: %1$d</string>
+    <string name="no_transactions">ტრანზაქციები არ არის</string>
+
+    <string name="transaction_arrow_description">კონვერტაციის სიმბოლო</string>
+
+    <string name="error_amount">გთხოვთ შეიყვანოთ სწორი რაოდენობა</string>
+
+    <string name="currency_usd">USD</string>
+    <string name="currency_eur">EUR</string>
+    <string name="currency_gel">GEL</string>
+    <string name="currency_gbp">GBP</string>
+</resources>
