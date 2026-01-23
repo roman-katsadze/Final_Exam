@@ -1,0 +1,19 @@
+პროექტის სტრუქტურა
+data/
+ ├── remote/
+ ├── local/
+ └── repository/
+
+ui/
+ ├── fragments/
+ └── adapters/
+
+კლონირება:git clone https://github.com/roman-katsadze/Final_Exam.git
+
+გახსენი Android Studio-ში
+
+დაამატე local.properties:EXCHANGE_RATE_API_KEY=
+
+52f350a0fff0f54c55ad7f5e
+
+  sync & Run  
